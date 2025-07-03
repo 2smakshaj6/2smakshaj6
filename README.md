@@ -18,7 +18,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git,github,bash,raspberrypi&theme=light" /></a>
 </p>
 
----
+
 <!--
 ### Connect with Me:
 <p align="center">
@@ -26,7 +26,7 @@
   <a href="mailto:smakshaj@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail" /></a>
 </p>
 -->
----
+
 <!--
 ### 📊 GitHub Stats:
 <p align="center">
@@ -34,7 +34,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=2smakshaj6&theme=tokyonight" />
 </p>
 -->
----
+
 <!--
 ### 🌍 Connect with Me:
 <p align="center">
