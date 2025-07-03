@@ -6,7 +6,7 @@
 </p>
 
 - I’m currently tuning detection rules in my cybersecurity lab and exploring GenAI-assisted documentation workflows  
-- I’m diving deeper into **Terraform, GenAI applications in Cybersecurity and studying for Security+**  
+- I’m diving deeper into **some the tools used in cybersecurity, GenAI applications in Cybersecurity and studying for Security+**  
 - Ask me about **Cybersecurity, GenAI, Cloud Security, Linux, Networking**  
 - How to reach me: **smakshaj@hotmail.com** or [LinkedIn](https://linkedin.com/in/akshajsm)  
 - Fun fact: **My nephew thinks I’m a superhero because I “hack bad guys” — I’m okay with that. 🦸‍♂️💻**
