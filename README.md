@@ -19,12 +19,13 @@
 </p>
 
 ---
-
+<!--
 ### Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/akshajsm" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:smakshaj@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail" /></a>
 </p>
+-->
 ---
 <!--
 ### 📊 GitHub Stats:
