@@ -17,7 +17,8 @@
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git,github,bash,raspberrypi&theme=light" /></a>
 </p>
-
+<pre>
+\`\`\`
 #      /$$$$$$                                    /$$                 /$$                      /$$$$$$ 
 #     /$$__  $$                                  | $$                | $$                     /$$__  $$
 #    |__/  \ $$  /$$$$$$$ /$$$$$$/$$$$   /$$$$$$ | $$   /$$  /$$$$$$$| $$$$$$$   /$$$$$$  /$$| $$  \__/
@@ -30,6 +31,10 @@
 #                                                                                  |  $$$$$$/          
 #                                                                                   \______/           
 
+  
+  
+\`\`\`
+</pre>
 <!--
 ### Connect with Me:
 <p align="center">
